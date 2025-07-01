@@ -1,0 +1,1 @@
+/home/cmetanac_c/.local/share/omf/themes/pastfish/fish_prompt.fish
