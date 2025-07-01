@@ -25,3 +25,4 @@ alias fishconfig="msedit /home/cmetana/.config/fish/config.fish"
 alias bench="sudo cachyos-benchmarker /home/cmetana/bench/"
 
 # arch-configs
+# arch-configs
